@@ -1,0 +1,7 @@
+:root {
+  --ff: "Courier New", Courier, monospace;
+}
+
+body {
+  font-family: var(--ff);
+}
